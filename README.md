@@ -1,4 +1,4 @@
-# feedback_fractal
+# Video feedback fractal system
 Simple Python demonstration of creating fractals using video feedback.
 Tested using Python 3.7.
 
